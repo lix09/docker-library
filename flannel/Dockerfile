@@ -1,5 +1,5 @@
-FROM quay.io/coreos/flannel:v0.9.1-amd64
-MAINTAINER Mosaicwang <mosaicwang@gmail.com>
+FROM gcr.io/spark-operator/spark:v2.4.5
+MAINTAINER rigel <bsifly13@163.com>
 
 
 
